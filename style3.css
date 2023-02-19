@@ -1,0 +1,24 @@
+
+.container3c {
+    max-width: 1500px;
+    margin: auto;
+    margin-top: 50px;
+    padding-top: 40px;
+    /* border: 1px solid blue; */
+    text-align: center;
+    background: rgb(248, 248, 248);
+}
+
+.container3c section {
+    display: flex;
+}
+
+.container3c img {
+    /* border: 1px solid green; */
+    translate: 200px;
+    box-shadow: 3px 3px 3px lightgrey;
+}
+
+.container3c div button {
+    translate: 50px -100px;
+}

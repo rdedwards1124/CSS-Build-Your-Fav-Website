@@ -25,7 +25,7 @@ section img {
     width: 100%;
 }
 
-section {
+.container2b section {
     display: flex;
     justify-content: space-between;
 }
